@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-MakeMaker-SkipInstall
-%define upstream_version 1.002
+%define upstream_version 1.100
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 3
+Release:    %mkrel 1
 
 Summary:    Skip the install rule of MakeMaker
 License:    GPL+ or Artistic
